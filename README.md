@@ -9,6 +9,7 @@ starting point for conversion into editable pages (e.g. via Novamira + Claude Co
 - `pantha-rhei.html` — "Pantha Rhei" page (about / circular fashion)
 - `catalogues.html` — Catalogues page (Discover. Explore. Download. + ordering info)
 - `privacy.html` — placeholder (the original site's privacy link returns a 404)
+- `b2b.html` — B2B page (regenerative collaborations, collaboration process, FAQs)
 - `css/style.css` — shared stylesheet
 
 ## Notes for CMS conversion
